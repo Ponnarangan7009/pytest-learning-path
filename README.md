@@ -1,6 +1,6 @@
 # Pytest Learning Path
 
-A hands-on repository for learning pytest from the fundamentals through fixtures, parametrization, markers, test selection, failure handling, and reporting. Selenium provides a browser-automation practice area, with API testing planned as the next learning track.
+A hands-on repository for learning pytest from the fundamentals through fixtures, parametrization, markers, test selection, failure handling, and reporting. Selenium is used for browser-automation practice.
 
 ## Learning folders
 
@@ -12,7 +12,7 @@ A hands-on repository for learning pytest from the fundamentals through fixtures
 - `hands-on/` — tests for order-processing rules, including discounts, stock, and invalid orders.
 - `selenium_tests/` — a browser fixture, form interactions, explicit waits, a first Page Object, markers, and pytest reports.
 
-See [LEARNING_ROADMAP.md](LEARNING_ROADMAP.md) for the progress and next steps.
+See [PYTEST_REVISION_GUIDE.md](PYTEST_REVISION_GUIDE.md) for a concise review of the concepts and commands practiced so far.
 
 ## Set up the environment
 
